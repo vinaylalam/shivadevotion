@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'Kajiro';
   src:
-    url('/path/to/kajiro.woff') format('woff')
+    url('../shivadevotion/kajiro Bold.woff') format('truetype');
 }
 
 *{
