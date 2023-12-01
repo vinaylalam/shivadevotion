@@ -1,11 +1,7 @@
 @font-face {
   font-family: 'Kajiro';
   src:
-    url('/path/to/kajiro-regular.woff2') format('woff2'),
-    url('/path/to/kajiro-regular.woff') format('woff'),
-    url('/path/to/kajiro-regular.ttf') format('truetype');
-  font-style: normal;
-  font-weight: 400;
+    url('/path/to/kajiro-regular.woff2') format('woff2')
 }
 
 *{
