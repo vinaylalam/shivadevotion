@@ -1,9 +1,10 @@
 @font-face {
-  font-family: 'kajiro';
-  src:
-    url('/fonts/kajiro.ttf') format('truetype'),
-    url('/fonts/kajiro.woff') format('woff');    
+    font-family: 'kajiro';
+    src: url('/fonts/kajiro.woff2') format('woff2'),
+         url('/fonts/kajiro.woff') format('woff'),
+         url('/fonts/kajiro.ttf') format('truetype');
 }
+
 
 *{
     margin: 0;
